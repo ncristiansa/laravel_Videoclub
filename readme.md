@@ -1,7 +1,7 @@
 ## VideoClub Laravel
 Datos importantes para utilizar la App:
 
-    - Realizar las siguientes comanas en el orden correspondiente:
+    - Realizar las siguientes comandas en el orden correspondiente:
        1. cp .env.example .env
        2. nano .env
            -  Modificar los parametros de la bases de datos:
