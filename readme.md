@@ -5,7 +5,7 @@ Datos importantes para utilizar la App:
        1. cp .env.example .env
        2. nano .env
            -  Modificar los parametros de la bases de datos:
-               - Nombre DB: task
+               - Nombre DB: videoclub
                - Usuario: admin
                - Clave: admin
        3. php artisan key:generate
